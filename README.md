@@ -1,9 +1,9 @@
 <div align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=rieulp&show_icons=true&theme=vue" height="200px">
+    <img src="https://github-readme-stats.vercel.app/api?username=rieulp&show_icons=true&theme=vue" height="190px">
   </a>
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rieulp&theme=vue&layout=compact" height="200px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rieulp&theme=vue&layout=compact" height="190px">
   </a>
 </div>
 
