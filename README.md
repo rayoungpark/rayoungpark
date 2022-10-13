@@ -1,7 +1,11 @@
-### Hi there! 👋
-
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rieulp&show_icons=true&theme=flag-india)
+<div align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=rieulp&show_icons=true&theme=vue" height="200px">
+  </a>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rieulp&theme=vue&layout=compact" height="200px">
+  </a>
+</div>
 
 
 <!--
@@ -18,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
